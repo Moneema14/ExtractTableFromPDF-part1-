@@ -1,0 +1,9 @@
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\bin\Debug\ExtractTableFromPDFwithBorders.dll
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\bin\Debug\ExtractTableFromPDFwithBorders.pdb
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\bin\Debug\BouncyCastle.Crypto.dll
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\bin\Debug\Common.Logging.Core.dll
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\bin\Debug\Common.Logging.dll
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\bin\Debug\itext.kernel.dll
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\obj\Debug\ExtractTableFromPDFwithBorders.csprojResolveAssemblyReference.cache
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\obj\Debug\ExtractTableFromPDFwithBorders.dll
+F:\Mish'sHabijabi\Online\ExtractTableFromPDF(part1)\ExtractTableFromPDFwithBorders\ExtractTableFromPDFwithBorders\obj\Debug\ExtractTableFromPDFwithBorders.pdb
